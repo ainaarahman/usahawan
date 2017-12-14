@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-2 H1 {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+  font-size: 84px;
+}
+#header4-2 P {
+  color: #000000;
+  text-align: center;
+}
+#footer1-3 P {
+  text-align: center;
+}
+
+#ext_menu-4 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-4 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-4 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-5 P {
+  text-align: center;
+}
+#content1-b DIV {
+  text-align: center;
+  color: #000000;
+  font-size: 24px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#ext_menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-7 P {
+  text-align: center;
+}
+#features1-8 P {
+  text-align: center;
+}
+#ext_menu-c .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-d P {
+  text-align: center;
+}
